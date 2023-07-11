@@ -38,6 +38,7 @@ header > p{
     text-align: center;
     font-size: 1.2em;
     font-family: var(--fonte1);
+    margin-bottom: 2.5vw;
 
 }
 body{
