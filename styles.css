@@ -52,6 +52,7 @@ main > p{
     font-size: 3.5vw;
     margin: 3vw;
     padding:10vw 3.5vw;
+    line-height: 2em;
 
 }
 div.joaninha {
@@ -80,6 +81,7 @@ div > p{
     font-size: 3.5vw;
     padding:2vw 3.5vw;
     max-height: fit-content;
+    line-height: 2em;
    
     
 }
